@@ -1,4 +1,4 @@
-## 프리온보딩 백엔드 과정 2번째 과제: 프레시코드
+## 프리온보딩 백엔드 과정 3번째 과제: 프레시코드
 
 [redbricks](https://wizlab.net/)에서 제공해주신 API 설계 과제입니다. 헤로쿠를 이용해 배포했으며, 주소는 [https://pocky-redbrick-subject.herokuapp.com](https://pocky-redbrick-subject.herokuapp.com)입니다.
 
@@ -78,7 +78,7 @@
 
 ### 게임 검색
 
-join, pagination, 검색 쿼리를 실행하기 위해 [typeorm](https://typeorm.io/) 의 `createQueryBuilder`을 사용했습니다. 총 개수와 검색 결과를 응답으로 전달합니다. 프로젝트 목록 조회와 동일하게 한 번에 5개씩 출력합니다.
+join, pagination, 검색 쿼리를 실행하기 위해 [TypeORM](https://typeorm.io/) 의 `createQueryBuilder`을 사용했습니다. 총 개수와 검색 결과를 응답으로 전달합니다. 프로젝트 목록 조회와 동일하게 한 번에 5개씩 출력합니다.
 
 ```typescript
 // game.service.ts
