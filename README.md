@@ -1,6 +1,6 @@
-## 프리온보딩 백엔드 과정 3번째 과제: 프레시코드
+## 프리온보딩 백엔드 과정 3번째 과제: redbrick
 
-[redbricks](https://wizlab.net/)에서 제공해주신 API 설계 과제입니다. 헤로쿠를 이용해 배포했으며, 주소는 [https://pocky-redbrick-subject.herokuapp.com](https://pocky-redbrick-subject.herokuapp.com)입니다.
+[redbrick](https://wizlab.net/)에서 제공해주신 API 설계 과제입니다. 헤로쿠를 이용해 배포했으며, 주소는 [https://pocky-redbrick-subject.herokuapp.com](https://pocky-redbrick-subject.herokuapp.com)입니다.
 
 ## 과제에 대한 안내
 
